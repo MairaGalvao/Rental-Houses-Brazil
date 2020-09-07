@@ -13,9 +13,14 @@ def unique_cities():
     return unique_cities
 
 
-def get_rent_min_max():
-    max_min = 'From %s until %s rent' % (data.rent.min(), data.rent.max())
-    return max_min
+def get_min():
+    min = data.rent.min()
+    return min
+
+
+def get_max():
+    max = data.rent.max()
+    return max
 
 
 def get_rent_mean():
