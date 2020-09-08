@@ -10,5 +10,11 @@
 * Rent Mean: *3896.24*
 * Houses with rent over than 5225 reais (5 * minimum wage = 1045): 
 
+Author: Maíra Galvão
+
+Date:
+
+Conclusion:
+
 
 in progress... 
